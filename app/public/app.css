@@ -1,14 +1,10 @@
 body {
-    background: url(./Tala.jpg);
+    background: url(./images/tim-mossholder-269932-unsplash.jpg);
     background-size: cover;
     background-position: center;
     font-family: 'Indie Flower', cursive;
-    font-size: 30px;
-    color:black;
+    color:black;  
 }
 
 
-#content {
-    text-align: center;
-    padding-top: 25%;
-}
+
