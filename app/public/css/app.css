@@ -1,5 +1,5 @@
 body {
-    background: url(./images/tim-mossholder-269932-unsplash.jpg);
+    background: url(../img/survey.jpg);
     background-size: cover;
     background-position: center;
     font-family: 'Indie Flower', cursive;
@@ -31,4 +31,9 @@ h4 {
 
 a {
     color: #13aae6;
+}
+
+#match-img {
+    width: 560px;
+    height: 328px;
 }
